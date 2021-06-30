@@ -1,0 +1,3 @@
+[submodule "TechNews"]
+	path = TechNews
+	url = https://github.com/OmarrLc/TechNews.git
